@@ -1,1 +1,1 @@
-# All_Settled
+JavaScript code demonstrating the use of Promise.allSettled
